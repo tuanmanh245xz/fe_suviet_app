@@ -11,4 +11,7 @@ export const appColors = {
   gray1: '#9E9E9E',
   grayIcons: '#9E9E9E',
   checkbox:'#FFD57B',
+  title: '#000',
+  borderColor:'#58CC02',
+  TextBtn:'#58CC02',
 };
